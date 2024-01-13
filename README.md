@@ -1,3 +1,4 @@
+![logo](https://github.com/rsKaurav98/rsKaurav98/blob/main/a-photo-of-a-hypothetical-room-where-a-software-de-upscaled%20(2).png)
 <h1 align="center">Hi 👋, I'm Rohit Singh Kaurav</h1>
 <h3 align="center">A passionate frontend/Fullstack developer from India</h3>
 
