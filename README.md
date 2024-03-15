@@ -12,14 +12,13 @@
 
 - 👯 I’m looking for a job **Frontend/Fullstack Developer (React/MERN)**
 
-- 👨‍💻 All of my projects are available at [https://my-portfolio-kauravrohit01-gmailcom-rohit-s-projects-b84288a6.vercel.app/](https://my-portfolio-kauravrohit01-gmailcom-rohit-s-projects-b84288a6.vercel.app/)
+- 👨‍💻 All of my projects are available at https://rohitskaurav.netlify.app/
 
 - 💬 Ask me about **React , MERN stack , C/C++ , OOPs**
 
 - 📫 How to reach me **kauravrohit98@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1BW_QigsemsXnbPjR9_T_WM1G7zVgeHhD/view?usp=sharing](https://drive.google.com/file/d/1BW_QigsemsXnbPjR9_T_WM1G7zVgeHhD/view?usp=sharing)
-
+- 📄 Know about my experiences https://drive.google.com/file/d/17JNvb0l2xpbxRd3Z7XCoH4IeqfFhe8ii/view?usp=drive_link
 - ⚡ Fun fact **Knows a lot about WORLD HISTORY and POLITY**
 
 <h3 align="left">Connect with me:</h3>
